@@ -36,7 +36,7 @@ This analysis examines 171 ecommerce transactions across 5 regions and 7 product
 Ecommerce_Analysis/
 ├── data/
 │   ├── Ecommerce_Data.xlsx          # Original raw data
-│   └── ecommerce_cleaned.csv        # Cleaned data (generated)
+│   └── ecommerce_cleaned.csv        # Cleaned data
 ├── scripts/
 │   └── ecommerce.py                 # Main analysis script
 ├── outputs_charts/                  # Generated visualizations
